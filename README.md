@@ -4,13 +4,13 @@ Proyek Mini LMS Terdistribusi, mata kuliah Sistem Terdistribusi, PTIK.
 
 ## Identitas Kelompok
 
-| Nama | NIM | Kontribusi |
-| --- | --- | --- |
-| Nur Asma  | 240209500049 |  |
-| Magfirah Ahmad | 240209500038 |  |
-| Aisyah Nurhidayati Az-zahrah | 240209504003 |  |
-| Nur Salmi | 240209500036 |  |
-| Nazwa Ghalia Abdillah | 240209500046 |  |
+| Nama | NIM |
+| --- | --- |
+| Nur Asma  | 240209500049 |
+| Magfirah Ahmad | 240209500038 |
+| Aisyah Nurhidayati Az-zahrah | 240209504003 |
+| Nur Salmi | 240209500036 |
+| Nazwa Ghalia Abdillah | 240209500046 |
 
 ## Deskripsi Service
 
