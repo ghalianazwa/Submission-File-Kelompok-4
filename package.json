@@ -1,0 +1,20 @@
+{
+  "name": "kelompok-4-submission-file",
+  "version": "1.0.0",
+  "description": "Submission File Service - Kelompok 4 - Proyek Mini LMS Terdistribusi",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node tests/test_api.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "16.4.5",
+    "express": "4.19.2",
+    "jsonwebtoken": "9.0.2"
+  }
+}
