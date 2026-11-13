@@ -4,13 +4,13 @@ Proyek Mini LMS Terdistribusi, mata kuliah Sistem Terdistribusi, PTIK.
 
 ## Identitas Kelompok
 
-| Nama | NIM |
-| --- | --- |
-| Nur Asma  | 240209500049 |
-| Magfirah Ahmad | 240209500038 |
-| Aisyah Nurhidayati Az-zahrah | 240209504003 |
-| Nur Salmi | 240209500036 |
-| Nazwa Ghalia Abdillah | 240209500046 |
+| Nama | NIM | Kontribusi |
+| --- | --- | --- |
+| Nur Asma  | 240209500049 | Pencatat, Mencatat setiap pertanyaan, mencatat kendala yang muncul saat demo. |
+| Magfirah Ahmad | 240209500038 | Penjelas Alur, Menjelaskan gambaran besar sistem, arsitektur, dan bagaimana perpindahan request terjadi antar-service. |
+| Aisyah Nurhidayati Az-zahrah | 240209504003 | Penguji, Menunjukkan dan mempraktikkan kasus sukses, kasus gagal (error), serta skenario recovery (pemulihan). |
+| Nur Salmi | 240209500036 | Penjelas Alur 2, Membantu Penjelas Alur 1 dengan merinci alur data yang masuk dan keluar, serta menjelaskan skenario fitur yang sedang didemonstrasikan. |
+| Nazwa Ghalia Abdillah | 240209500046 | Operator, Menjalankan service (backend/lokal) dan mengeksekusi request demo. |
 
 ## Deskripsi Service
 
